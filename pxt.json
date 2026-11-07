@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "browser-events": "*"
+        "browser-events": "*",
+        "typing-input": "github:ay-makecode-arcade/typing-input#v0.1.0"
     },
     "files": [
         "main.blocks",
